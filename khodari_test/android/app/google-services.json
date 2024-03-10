@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66230938641",
+    "project_id": "khodari-bluemill",
+    "storage_bucket": "khodari-bluemill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66230938641:android:c3ef81daa79bebfa6055b0",
+        "android_client_info": {
+          "package_name": "com.example.khodari_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC9o8EhFLKdqChcqjZxY4VMEdZfF63P7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
